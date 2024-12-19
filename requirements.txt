@@ -1,0 +1,7 @@
+colorama==0.4.4
+ocrmypdf==14.0.2
+PyPDF2==3.0.1
+pytesseract==0.3.10
+spacy==3.8.3
+torch==1.13.1+cu116
+tqdm==4.62.2
